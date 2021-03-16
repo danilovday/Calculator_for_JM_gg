@@ -12,6 +12,8 @@ public class Main {
         Console n = new Console();
         n.console();
         //ldascfklndjfmnmnklsdfmnsldlslksdjf
+
+        //ыdfsgdfgh
     }
 
 }
